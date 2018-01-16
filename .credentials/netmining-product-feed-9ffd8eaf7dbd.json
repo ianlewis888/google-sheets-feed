@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "netmining-product-feed",
+  "private_key_id": "9ffd8eaf7dbdaad611d2b613efa5f53e4f727d18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9u3sZlOhtp7xJ\nWDIfGzbuzk9e3pnR1KuwKWhGkGRUJY6PmhKzI0PGWSqpjA6DcYt35pFKldPxD6Xv\nySVZeFL37RSinMX7SoKWBqPtUyRznIV3M669c9FOBKz3lLJa3B3besUcJ/shL8iH\nyK9YCAIhPMI5+1aCCLWGyFmqcM4QjY3xFDD1HndS7HuMttdM021F5HlPBmhkcw4A\nzCjmQ62qRGQlWwGJJub7JPJW0V+2o06NcWlJ9QKo5r4NT2cvCxHf4ASJsMlkRmBI\nPHwEqWN3tDhjbj78+G/jwYvvpjtwDiB0dUTBojJ7dYA5wv/rAxO5+BYW06tRAafk\nKxMCsfGxAgMBAAECggEABLt4gW23AuYqQneQT3mPrBLqBKMfec34xszvmIP5NqaV\nqNQGV6C/a+L1NxOi2Ik0WfYepVo5ljOGV2XgWDwRsLShfUFVCFSmT2zkuZKHcBlF\nNHEN8JSDEdO4xzeWn8DJ/1uPb0l5gG1HToi1Q+g2OmNAMm9IC/gA5Bba8q772sqL\n/1QgrvoBD1Ryi/YAiMurfjVQr2rN4KSGJfrCcpL1Vs2AGy+Vya6LYYkWzlxOpxya\nVDywnHvrz2a/os03BklW4OkHnGzbOfRORoAPd1uOAG7Dzfrrxk+eIJ56HV20RTmV\nm3Ijmu7cXFrYglUqxeZwoVkxmjrZ2HxVgdqBeCiOiQKBgQD4WVG1mwHOZuwmOVBN\nTo2bZWb+MGwxX8OQuG3C00woOFHfH/yrrR+tcmd5SGpS09upEijmOO0uHyQkDpp2\n4RHMFRolYo4UfAYc1ERDPYgYo4rbdx35Jas8YCNP+fBFiPcSOvoIQnBTdT0bV6bo\nvRcZB1XE9tzTo1/OSHFhZ2ssaQKBgQDDk90una4CMkyBMPBCaiVHI4eyZ+rhz40W\nWYMxsbntlu7BcY5/Uc5ngah+BFeVOnEg0W+SK/tudKXMg386k7nbyUKl5iqwjUFN\n4OEHcE49+BTjWs5sDpAacFuyXNQHLh3B5D8b/SKENwfsvBqgFfxXIZ7SBw0Cu4/h\nSsFqPp4SCQKBgQDo7+4h5nf1Prg0ygE14X4UyTGnLYftb6Mg9LuOx11hRCIWpAv8\ngm954hqHuZJwieI4XJ4cAj0Ey5S8dS4QXt6wiwJxGlWlhQa+t6InZ2llos+1Na7Z\nZ6mLAalddFMXBXaolMS8RoTQ4uAj6zzUg7dMdILQMbPCljRgabZe4/+0MQKBgEP4\nB05EDk1FHcFoOJdcPEhU2Lvv0XlYoDe8NBP5KByh76faxyMIUys1rFDfQXDjNp2p\nK5UpI+BnOZexu22oGVeAwmDVdNCWxrNCC/KB3S88IEZDMKntBbeqhLOf/y/fnwfb\nQvN/LZe1aFOlq7sm6ON/E6r6OFNSy9YIHN/HkzfBAoGBAMjg08hSDTPBI7Q1Ly1K\nIe8Ji4LGiGPB9nv8awW8orQ7ALWbGlPXU/N93uOUUonijeyqawfP/N95A5XUBekz\nLyu6TYqnwjkKwisvhllgE0tSX/WPPsPbPTuwf2LhYlka220rfgHnTPXfoSHfDNUm\nbSskvHkvfXMjX4HTCo+h9wBA\n-----END PRIVATE KEY-----\n",
+  "client_email": "service@netmining-product-feed.iam.gserviceaccount.com",
+  "client_id": "108913472526523063130",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service%40netmining-product-feed.iam.gserviceaccount.com"
+}
